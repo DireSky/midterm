@@ -31,7 +31,7 @@
 
 **Task 3️⃣:** Make ignoring of git of 1 any file and 1 any folder.
 
-**Task 4️⃣:** Switch to the very first commit. Find the file with the question. Switch back to the latest commit of your main branch. Create a TXT file in the same repository on the main branch. Name it Question_1 and write the answer to the question into it. Make a commit with a clear name.
+**Task 4️⃣:** Switch to the fourth commit. Find the file with the question. Switch back to the latest commit of your main branch. Create a TXT file in the same repository on the main branch. Name it Question_1 and write the answer to the question into it. Make a commit with a clear name.
 
 **Task 5️⃣:** Explain how the commands from chapter 6 work. Write the answer to the file "Answer_6". Make a commit.
 
