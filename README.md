@@ -14,7 +14,7 @@
 
 ⚠️   *Your push operation may not work. If so you can use FORCE PUSH. How to do force push you can find in internet, or use https url.* 
 
-⚠️ *The end of the exam is at **11:30**.* 
+⚠️ *The end of the exam is at **12:00**.* 
 
 ❌ *I will not accept links that are sent later than end of the exam*  
 
